@@ -3,9 +3,7 @@
 This repository contains the source code and design assets for my Personal Portfolio Website. The portfolio is designed to showcase my skills, services, and contact information in a clean and modern layout.
 
 📁 Folder Structure
-nginx
-Copy
-Edit
+
 MY PORTFOLIO/
 │
 ├── 📂 Screenshots/
@@ -18,6 +16,7 @@ MY PORTFOLIO/
 ├── index.html          # Main HTML file containing the website structure
 ├── style.css           # CSS file containing website styling
 └── README.md           # Documentation for the portfolio
+
 📜 Website Sections
 🏠 Home Page (Home.png)
 The landing section of the portfolio.
